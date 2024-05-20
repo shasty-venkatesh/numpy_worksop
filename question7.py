@@ -13,6 +13,7 @@ e=[3]
 result=[]
 result.append(a)
 result.append(b)
+d.append(e)
+c.append(d)
 result.append(c)
-result.append(d)
-result.append(e)
+print(result)
