@@ -10,3 +10,9 @@ e=[3]
 
 # use append method to do this.
 
+result=[]
+result.append(a)
+result.append(b)
+result.append(c)
+result.append(d)
+result.append(e)
